@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mihail Kislev
+- 👋 Hi, I’m Mikhail Kislev
 - 📫 How to reach me mihail_kiselev00@mail.ru
 
 <!---
